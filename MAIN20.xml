@@ -56,7 +56,7 @@
           <ST>
             <xhtml xmlns="http://www.w3.org/1999/xhtml">;
 
-Ampel1.Green	:=	TRUE;
+Ampel1.Green	:=	TRUE; lllllllllllllllllllllllllllll
 Ampel1.Red		:=	TRUE;
 PL	:=	TO_INT(POU_2(3,5));
 
