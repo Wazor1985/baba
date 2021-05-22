@@ -57,6 +57,10 @@
             <xhtml xmlns="http://www.w3.org/1999/xhtml">;
 
 Ampel1.Green	:=	TRUE; lllllllllllllllllllllllllllll
+<<<<<<< HEAD
+=======
+222222222222222222222222222222222222222222222
+>>>>>>> BB
 Ampel1.Red		:=	TRUE;
 PL	:=	TO_INT(POU_2(3,5));
 
